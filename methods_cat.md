@@ -1,3 +1,8 @@
+# Deep Learning Depth Estimation Methods Overview by Categories
+
+This is essentially a simplified version of [_Monocular Depth Estimation Based on Deep Learning: An Overview_](https://arxiv.org/pdf/2003.06620.pdf) by Zhao et al. with some comments. 
+
+
 ## Supervised
 
 ### Methods based on different architectures and loss functions
