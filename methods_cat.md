@@ -2,6 +2,7 @@
 
 This is essentially a simplified version of [_Monocular Depth Estimation Based on Deep Learning: An Overview_](https://arxiv.org/pdf/2003.06620.pdf) by Zhao et al. with some comments. 
 
+---
 
 ## Supervised
 
@@ -63,3 +64,11 @@ TBA
 ### Methods based on adversarial learning
 
 TBA
+
+---
+
+## Semi-supervised monocular depth estimation
+
+### Basic model
+
+Trained on stereo images, semi-supervised methods use inverse warping guided by the predicted disparity
