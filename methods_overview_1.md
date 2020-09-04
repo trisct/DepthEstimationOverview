@@ -71,4 +71,12 @@ TBA
 
 ### Basic model
 
-Trained on stereo images, semi-supervised methods use inverse warping guided by the predicted disparity
+Trained on stereo images, semi-supervised methods use inverse warping guided by the predicted disparity.
+
+### Methods based on stereo matching
+
+1. Luo. Single view stereo matching (CVPR, 2018)
+
+### Methods based on adversarial learning and knowledge distillation
+
+1. Pilzer. Refine and distill: Exploiting cycle-inconsistency and knowledge distillation for unsupervised monocular depth estimation
